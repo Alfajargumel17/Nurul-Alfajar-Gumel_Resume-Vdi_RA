@@ -1,0 +1,32 @@
+---
+title: '"Review Jurnal: Making Data Visualization More Efficient and Effective: A
+  Survey'
+author: "Nuru Alfajar Gumel"
+date: "2024-08-27"
+output: pdf_document
+---
+
+# Pendahuluan
+
+Visualisasi data menjadi alat yang semakin penting dalam berbagai bidang, terutama dengan jumlah data yang luar biasa yang meningkat. Di era big data, visualisasi data seringkali sulit karena volume dan kompleksitasnya. Artikel ini menunjukkan masalah utama dalam menyajikan data secara visual. Penulis menekankan bahwa visualisasi data tidak hanya harus akurat tetapi juga efektif agar benar-benar bermanfaat. Hal ini menunjukkan betapa pentingnya visualisasi dalam mengatasi kompleksitas data modern, karena data yang penuh dengan informasi dapat kehilangan makna dan relevansinya jika tanpa alat yang tepat.
+
+
+## Spesifikasi Visualisasi
+
+Penulis membahas pentingnya memilih representasi visual yang tepat pada bagian ini. Mereka menunjukkan bahwa pendekatan visual yang berbeda digunakan untuk setiap jenis data dan tujuan analisis. Untuk membuat visualisasi yang tidak hanya informatif tetapi juga mudah dipahami oleh penonton, prinsip-prinsip seperti penggunaan warna yang cerdas dan desain yang sederhana dijelaskan. Menariknya, penulis menemukan bahwa pelanggaran prinsip-prinsip ini sering menyebabkan interpretasi data yang salah. Ini sangat relevan bagi dunia bisnis di mana keputusan cepat harus dibuat berdasarkan visualisasi yang jelas dan tepat.
+
+## Pendekatan Efisien untuk Pemrosesan Data
+
+Dalam mengelola dan memproses data dengan jumlah yang besar  jelas terasa sulit.Namun, disini penulis membahas metode seperti kompresi data dan pemrosesan paralel yang dapat mempercepat proses tersebut. Saya sangat menghargai fokus efisiensi ini karena saya melihat banyak perusahaan yang masih menghadapi masalah kecepatan pemrosesan data, yang sering menghambat pengambilan keputusan yang cepat dan tepat waktu. Meskipun data yang diolah sangat besar, teknik-teknik ini memastikan visualisasi tetap interaktif.
+
+## Sistem Rekomendasi Visualisasi
+
+Pada bagian ini, hal yang menarik perhatian adalah adanya  pembahasan bagaimana sistem rekomendasi dapat membantu memilih jenis visualisasi yang tepat, terutama bagi mereka yang mungkin kurang berpengalaman dalam visualisasi data. Dengan menggunakan teknik pembelajaran mesin, sistem ini dapat menyarankan jenis visualisasi yang paling sesuai dengan data yang ada. Saya melihat bahwa metode ini menawarkan solusi praktis bagi banyak profesional yang tidak memiliki latar belakang teknis tetapi tetap pemula.
+
+# Analisis
+
+Pada bagaian ini penulis menggabungkan perspektif dari grafis komputer dan analisis data, dan saya menghargai pendekatan interdisipliner mereka. Namun, saya pikir jurnal ini belum sepenuhnya membahas masalah nyata di dunia bisnis, seperti keterbatasan sumber daya dan kebutuhan untuk membuat keputusan dengan cepat. Saya percaya bahwa sesuatu yang lebih signifikan dapat dilakukan dengan menggabungkan teori dengan praktik di lapangan, terutama dalam lingkungan yang selalu berubah dan menuntut solusi yang cepat dan efektif.
+
+# Kesimpulan dan Saran
+
+Pada dasarnya jurnal ini berhasil menunjukkan cara untuk meningkatkan efektivitas dan efisiensi visualisasi data, tetapi saya pikir masih ada ruang untuk pengembangan, terutama dalam hal membuat alat visualisasi yang lebih mudah digunakan dan mampu menangani dataset yang lebih besar dengan lebih baik. Menghasilkan alat yang mudah digunakan dan dapat digunakan oleh semua orang, dari pemula hingga ahli, adalah langkah berikutnya yang saya anggap sangat penting dalam kemajuan visualisasi data.
