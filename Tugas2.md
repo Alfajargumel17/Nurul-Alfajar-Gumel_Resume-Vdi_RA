@@ -33,6 +33,8 @@ Pada visualisasi ini dapaet dikategorikan good karena memenuhi:
 
 B) Bad Visulization
 
+**   Visualisasi 1 **
+
 ![image](https://github.com/user-attachments/assets/821c5a2b-a894-41e4-a5d0-8714d3501b2b)
 
 
@@ -60,7 +62,9 @@ Visualisasi ini dapat dianggap sebagai bad visualization karena beberapa alasan 
     Warna yang minimalis tapi kurang efektif: Penggunaan warna hanya terbatas pada biru dan abu-abu untuk membedakan rute transatlantik dan lainnya, namun ini tidak cukup kontras untuk menarik perhatian atau memberikan penekanan pada elemen penting.
 
     Desain padat: Grafik ini terlalu padat dengan garis yang saling silang, membuatnya tidak estetis dan membuat mata cepat lelah ketika mencoba membaca informasi secara detail.
+   
 
+**   Visualisasi 2 **
 
    ![image](https://github.com/user-attachments/assets/1f8d78ce-3c10-4648-a88c-e9d863406b79)
 
